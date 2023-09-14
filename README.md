@@ -1,5 +1,4 @@
 <div align="center"><br />
-<img src="http://minerva.vn/wp-content/uploads/2020/06/logo.png" alt="Logo" style="-webkit-user-select: none;margin: auto;">
 
 <h1>Research and Development</h1>
 <h2>Model Chat Bot Sequence-to-Sequence</h2>
