@@ -46,7 +46,7 @@
 
 - Ubuntu
 ```ssh
-git clone https://git.minerva.vn/hoangnm/chatbot-seq2seq-lstm.git
+git clone https://github.com/mhoang2309/chatbot_seq2seq_lstm.git
 cd chatbot-seq2seq-lstm
 python3 -m venv .venv
 source .venv/bin/activate
