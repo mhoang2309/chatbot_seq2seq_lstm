@@ -102,7 +102,7 @@ python main.py --predict
   project      = {CHATBOT - Sequence-to-Sequence},
   author       = {Team R&D, Nguyễn Mạnh Hoàng},
   time         = {08/2022},
-  url          = {https://git.minerva.vn/hoangnm/chatbot-seq2seq-lstm.git},
-  organization = {Minerva Technology Solutions}
+  url          = {git clone https://github.com/mhoang2309/chatbot_seq2seq_lstm.git},
+  organization = {__}
 }
 ```
